@@ -23,6 +23,7 @@ npm run build
 ---
 
 #### 运行示例
+可以直接下载打包好的程序[electron-serialport]()
 ##### 1. 列出串口设备
 ![列出串口](./build/screenshot/shot1.png)
 

@@ -51,7 +51,6 @@
     },
     "dependencies": {
         "axios": "^0.18.0",
-        "electron-rebuild": "^2.3.5",
         "element-ui": "^2.15.3",
         "multispinner": "^0.2.1",
         "serialport": "^9.2.0",
@@ -82,6 +81,7 @@
         "electron-builder": "^20.19.2",
         "electron-debug": "^1.5.0",
         "electron-devtools-installer": "^3.2.0",
+        "electron-rebuild": "^2.3.5",
         "file-loader": "^1.1.11",
         "html-webpack-plugin": "^3.2.0",
         "listr": "^0.14.3",
