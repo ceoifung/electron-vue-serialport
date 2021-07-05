@@ -23,7 +23,7 @@ npm run build
 ---
 
 #### 运行示例
-可以直接下载打包好的程序[electron-serialport]()
+可以直接下载打包好的程序[electron-serialport](https://github.com/ceoifung/electron-vue-serialport/releases/download/0.0.1/electron-serialport.Setup.0.0.1.exe)
 ##### 1. 列出串口设备
 ![列出串口](./build/screenshot/shot1.png)
 
