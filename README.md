@@ -3,7 +3,17 @@
 > electron-vue串口实例
 
 #### 构建步骤
-
+##### 1. 电脑编译环境安装
+- 安装Python2.7，配置环境变量（官网下载）,必须是2.7版本，3不支持
+- 安装windows-build-tools 
+    ```bash
+    npm install --global --production windows-build-tools
+    ```
+- 安装 node-gyp 
+    ```bash
+    npm install -g node-gyp
+    ```
+##### 2. Build Step
 ``` bash
 # install dependencies
 npm install
