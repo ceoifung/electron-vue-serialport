@@ -1,6 +1,6 @@
-# otaxrtool
+# electron-serialport
 
-> 小R科技OTA升级工具
+> electron-vue串口实例圣墟
 
 #### Build Setup
 
