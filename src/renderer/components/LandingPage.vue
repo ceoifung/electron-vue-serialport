@@ -207,6 +207,7 @@ export default {
     toMainPage() {
       if (this.isConnected) {
         console.log("点击了进入主界面的按钮，可以自定义跳转页面");
+        this.$alert("点击了进入主界面的按钮，可以自定义跳转页面");
         // this.$router.push({
         //   path: "/main-page",
         // });
