@@ -1,6 +1,6 @@
 {
     "name": "electron-serialport",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "kylin <33998180+ceoifung@users.noreply.github.com>",
     "description": "Vue + electron + serialport",
     "license": "MIT",
